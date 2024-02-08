@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to pluck tea leaves!
 - 💞️ I’m looking to collaborate on nothing.... ear 1
 - 📫 How to reach me? Use smoke signals or carrier pigeons 🤓!
-- 😄 Pronouns: Dingle/Bob!
+- 😄 Pronouns: tf are Pronouns!
 - ⚡ Fun fact: There are more bugs in my code than there are on Earth!
 
 <!---
