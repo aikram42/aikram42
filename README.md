@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aikram42
-- 👀 I’m interested in oppais.. I mean oop object oriented programming!
+<!--- 👀 I’m interested in oppais.. I mean oop object oriented programming! --->
 - 🌱 I’m currently learning how to pluck tea leaves!
 - 💞️ I’m looking to collaborate on nothing.... ear 1
 - 📫 How to reach me? Use smoke signals or carrier pigeons 🤓!
