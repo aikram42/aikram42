@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdul Aziz
-- I'm a software developer! with experience in c/c++ and various front-end tech!
+- 🤌 I'm a application developer! with extensive experience in c/c++ and alaaata other things!!
 - 🌱 I’m mastering 3d animation with three.js/react-three-fiber
-- 📫 How to reach me? by email or Use smoke signals or carrier pigeons!
+- 📫 How to reach me? by email, smoke signals or carrier pigeons!
 - ⚡ Fun fact: There are more bugs in my code than there are on Earth!
 
 <!--- 👀 I’m interested in oppais.. I mean oop object oriented programming! --->
